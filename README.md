@@ -1,1 +1,2 @@
 # Pizza_SQL_PowerBi
+IN this project, data obtained from google was first exploration and cleaning with MSSQL was first completed using simple select statements to advanced groupby and cast queries . Further cleaning and manipulation was done on power bi by filtering, creating new datae columns, using dax and measures. Two dashboards were created to extract valuable insights with interactive functionality.
